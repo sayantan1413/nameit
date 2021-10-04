@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from './../Header/Header'
-import SearchBox from './../SearchBox/SearchBox'
-import ResultContainer from './../ResultContainer/ResultContainer'
+import Header from '../Header/Header'
+import SearchBox from '../SearchBox/SearchBox'
+import ResultContainer from '../ResultContainer/ResultContainer'
 import './App.css'
 
 const name = require('@rstacruz/startup-name-generator');
